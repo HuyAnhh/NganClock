@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerClock {
+    background-image: url(Ngan1.jpeg);
+    background-size: contain;
+    height: 600px;
+}
+
+.NganClock {
+    background-color: #ffff;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+
+.btnChangeBg {
+    padding: 10px;
+}
+
+.btnLove {
+    padding: 10px;
+}
